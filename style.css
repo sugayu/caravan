@@ -43,20 +43,21 @@
 }
 
 .main {
-	width: 100%; /* 横幅 */
+	width: 840px; /* 横幅 */
 	background-color: green; /* 背景色 */
+	margin: 0 auto;
 }
 
 .blog {
 	width: 600px;
-	height: 600px;
+	height: 1400px;
 	background-color: limegreen;
 	float: left;
 }
 
 .sidebar{
 	width: 240px;
-	height: 600px;
+	height: 1400px;
 	background-color: palegreen;
 	float: left;
 }
