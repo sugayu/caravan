@@ -42,6 +42,7 @@ header .headline {
 .main-visual {
   width: 100%; /* 横幅 */
   height: 300px; /* 高さ */
+  background-image: url(img/mv.jpg);
 }
 .main-visual-content {
   width: 350px; /* 横幅 */
