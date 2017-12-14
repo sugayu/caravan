@@ -19,6 +19,7 @@ a {
 
 
 header {
+  position: relative;
   width: 90%;
   padding: 15px 0;
   margin: 0 auto;
@@ -28,6 +29,11 @@ header {
 header .headline {
   font-size: 32px;
 }
+.social i {
+  display: inline-block;
+  margin-left: 20px;
+}
+
 .nav-list {
   text-align: center;
   padding: 10px 0;
